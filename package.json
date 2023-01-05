@@ -1,5 +1,5 @@
 {
-  "homepage": "https://AbhishekCS3459.github.io/Text_Utills_React_app",
+  "homepage": "https://AbhishekCS3459.github.io/News-Provider-React-Js",
   "name": "news-app",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "deploy": "react-scripts start",
     "predeploy":"npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test",
