@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Karen Tong",
+            "title": "Selling something online? Beware the scam buyer",
+            "description": "Links to fake Australia Post websites and requests for overpayment refunds are just some of the scams to look out for when selling things on the internet.",
+            "url": "http://www.abc.net.au/news/2023-01-04/selling-something-online-beware-the-scam-buyer/101824012",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0684aeba71af7f23213df7dba33f6d04?impolicy=wcms_crop_resize&cropH=1374&cropW=2443&xPos=0&yPos=127&width=862&height=485",
+            "publishedAt": "2023-01-03T18:46:34Z",
+            "content": "When Linda Johnston posted an advertisement on Gumtree to sell a set of three suitcases, she was surprised to hear from an interested buyer within 15 minutes.\r\n\"I was excited to get such a quick sale… [+5281 chars]"
+        },
+        {
+            "source": {
+                "id": "svenska-dagbladet",
+                "name": "Svenska Dagbladet"
+            },
+            "author": null,
+            "title": "Sveriges kvalitetssajt för nyheter",
+            "description": "Sveriges ledande mediesajt - SvD.se. Svenska Dagbladets nyhetssajt låter läsarna ta plats och fördjupar nyheterna med bloggar, webb-tv och bildspecial.",
+            "url": "https://www.svd.se/butik/produkt/6389e9ea972e1a053a3c54d5?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=minigym",
+            "urlToImage": "https://static.svd.se/assets/assets/images/logo-sharing-backup.png",
+            "publishedAt": "2023-01-02T13:07:25.6675553Z",
+            "content": null
+        }
+    ]
+}

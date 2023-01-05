@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": null,
+            "title": "The green tech that could help Iceland become carbon neutral by 2040",
+            "description": "Iceland is developing a suite of technologies to help it reach carbon neutrality by 2040 – and its research could help other countries go green too",
+            "url": "https://www.newscientist.com/article/mg25634202-900-the-green-tech-that-could-help-iceland-become-carbon-neutral-by-2040/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/01/04112818/SEI_138357206.jpg",
+            "publishedAt": "2023-01-04T00:00:00Z",
+            "content": "By Michael Le Page\r\nThe geodesic dome of the CarbFix CO2 injection site\r\nMichael Le Page\r\nInside a small, geodesic dome near Iceland’s Hellisheiði geothermal power station, water full of carbon dioxi… [+335 chars]"
+        }
+    ]
+}
